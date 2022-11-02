@@ -1,6 +1,6 @@
 # RandomSentencesGenerator
 
- **A completely useless program that generates random sentences**
+ **A completely useless program that generates random sentences.**
  
  [Source Code](SentenceGenerator.java)
 
