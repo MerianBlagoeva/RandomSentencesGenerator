@@ -1,6 +1,6 @@
 # RandomSentencesGenerator
 
- **A console-based Java implementation of the Random Sentences Generator.**
+ **A completely useless program that generates random sentences**
  
  [Source Code](SentenceGenerator.java)
 
