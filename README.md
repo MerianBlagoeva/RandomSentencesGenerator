@@ -2,9 +2,9 @@
 
  **A completely useless program that generates random sentences.**
  
- [Source Code](SentenceGenerator.java)
 
-![image](https://user-images.githubusercontent.com/110605865/197402545-62c1fb61-ec8f-4d4a-aac8-fa4d4b6c6ee4.png)
+
+![image](https://user-images.githubusercontent.com/110605865/199590082-92034608-0dc9-465d-8d29-3fc25c4c6f0b.png)
 
 ## Live Demo
 
