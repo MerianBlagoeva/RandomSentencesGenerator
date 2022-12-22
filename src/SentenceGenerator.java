@@ -37,5 +37,7 @@ public class SentenceGenerator {
         Random random = new Random();
         int randomIndex = random.nextInt(words.length);
         return words[randomIndex];
+
+
     }
 }
