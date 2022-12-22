@@ -5,13 +5,13 @@ public class SentenceGenerator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String[] names = {"Merry", "Peter", "Jane", "Steve", "George" };
-        String[] places = {"Sofia", "London", "Montana", "Paris" };
-        String[] verbs = {"eats", "holds", "looks for", "gets", "makes" };
-        String[] nouns = {"ice cream", "something", "drugs", "money", "croissants" };
-        String[] adverbs = {"slowly", "happily", "calmly", "sadly", "rapidly" };
+        String[] names = {"Merry", "Peter", "Jane", "Steve", "George"};
+        String[] places = {"Sofia", "London", "Montana", "Paris"};
+        String[] verbs = {"eats", "holds", "looks for", "gets", "makes"};
+        String[] nouns = {"ice cream", "something", "drugs", "money", "croissants"};
+        String[] adverbs = {"slowly", "happily", "calmly", "sadly", "rapidly"};
         String[] details = {"at work", "at home", "in the park", "in the lobby", "in the bus", "at the beach", "in the morning",
-                "at lunch", "on Friday night", "at the gym", "on Christmas", "on his birthday", "at McDonald's", "in the cinema", "in the church" };
+                "at lunch", "on Friday night", "at the gym", "on Christmas", "on his birthday", "at McDonald's", "in the cinema", "in the church"};
 
         System.out.println("Hello, this is your first random-generated sentence: ");
         while (true) {
@@ -27,17 +27,12 @@ public class SentenceGenerator {
             if (!input.equals("")) {
                 break;
             }
-
         }
-
-
     }
 
     public static String getRandomWord(String[] words) {
         Random random = new Random();
         int randomIndex = random.nextInt(words.length);
         return words[randomIndex];
-
-
     }
 }
