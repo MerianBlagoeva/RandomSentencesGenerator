@@ -2,8 +2,7 @@
 
 A console-based java implementation of the Random Sentences Generator.
  
-
-![image](https://user-images.githubusercontent.com/110605865/199590082-92034608-0dc9-465d-8d29-3fc25c4c6f0b.png)
+![image](https://user-images.githubusercontent.com/110605865/209574017-3640d6d6-850b-4aa3-bd3e-5a7d5a6ad1b6.png)
 
 [Source Code](https://github.com/MerianBlagoeva/RandomSentencesGenerator/blob/main/src/SentenceGenerator.java)
 
