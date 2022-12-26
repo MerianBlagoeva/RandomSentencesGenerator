@@ -8,7 +8,7 @@ public class SentenceGenerator {
         String[] names = {"Merry", "Peter", "Jane", "Steve", "George"};
         String[] places = {"Sofia", "London", "Montana", "Paris"};
         String[] verbs = {"eats", "holds", "looks for", "gets", "makes"};
-        String[] nouns = {"ice cream", "something", "drugs", "money", "croissants"};
+        String[] nouns = {"ice cream", "something", "cats", "money", "croissants"};
         String[] adverbs = {"slowly", "happily", "calmly", "sadly", "rapidly"};
         String[] details = {"at work", "at home", "in the park", "in the lobby", "in the bus", "at the beach", "in the morning",
                 "at lunch", "on Friday night", "at the gym", "on Christmas", "on his birthday", "at McDonald's", "in the cinema", "in the church"};
